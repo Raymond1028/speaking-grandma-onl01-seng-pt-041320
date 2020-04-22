@@ -8,7 +8,11 @@ def speak_to_grandma(phrase)
   return "NO, NOT SINCE 1938!."
   
 end  
-speak_to_grandma("")
+speak_to_grandma("I LOVE YOU GRANDMA")
+speak_to_grandma("I love you Granma")
+speak_to_grandma("HELLO GRANDMA")
+
+
 
 
 
